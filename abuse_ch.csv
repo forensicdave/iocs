@@ -6,6 +6,7 @@
 # For questions please contact bazaar [at] abuse.ch            #
 ################################################################
 #
+#
 # "first_seen_utc","sha256_hash","md5_hash","sha1_hash","reporter","file_name","file_type_guess","mime_type","signature","clamav","vtpercent","imphash","ssdeep","tlsh"
 "2021-11-10 17:32:38", "efc9deae21fc5b4c8ebfc3ecd56d62c5b5bf5f6cef0cfbdb250c3683f1e25eda", "d25378d986ec34642de21513c95218e0", "631bf00c986aa867d308135050ba0104ff4143d0", "JaffaCakes118", "Aer0 Spoofer - Stable .exe", "exe", "application/x-dosexec", "n/a", "n/a", "n/a", "06c6e92acd3ff57b00b3132976b3f6d6", "12288:aWWzIRlRn2/rw7INjVGCXZq0iiIxTh5TQdIJWjI0g0A8Reqr4d:aWUWrnIrw7I1VGCXZbiiYQdAWngR8o", "T18DC4AE17E6428076E4632430269D9F6259BD76300A26557BF3C42E2D9EF02F2AB35F37"
 "2021-11-10 17:27:13", "fcff42ff054b0f51f2eab26562686844e365ea6bf50e2a0a6508bf8d34a63ba4", "1df77e57e0b2d789baf798b381d2c007", "e15d7b2c3f6dabb5d19fd915dbca09d2e3fe60d7", "James_inthe_box", "download.dat.dll", "dll", "application/x-dosexec", "n/a", "n/a", "n/a", "dae02f32a21e03ce65412f6e56942daa", "12288:gdEG94KcHomlPaAoZq8O0cZFzZkdbVdBSedwFqY:bG+bomlCAoyRFzZkdbXM4wFq", "T1E7B4CF2936968F41C7981EBBD0E3502027F2D9826733D75E3E8513E71D533AAAD423DA"
